@@ -1,2 +1,2 @@
 # HexPage
- Website with random generated background
+ Webpage with randomly generated background hex color
